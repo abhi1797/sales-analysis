@@ -43,8 +43,7 @@ This project analyzes transactional sales data using PostgreSQL. It includes SQL
 ### 📌 Running the SQL Scripts
 Clone the repository:
 ```sh
-git clone https://github.com/your-username/sales-analysis.git  
-cd sales-analysis  
+git clone https://github.com/your-username/sales-analysis.git   
 ```
 
 Open **pgAdmin** or **psql** and run the scripts:
