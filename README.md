@@ -48,7 +48,7 @@ git clone https://github.com/your-username/sales-analysis.git
 
 Open **pgAdmin** or **psql** and run the scripts:
 ```sql
-\i sales_analysis.sql
+\i Transaction_data.sql
 ```
 
 
